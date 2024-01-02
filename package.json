@@ -1,0 +1,19 @@
+{
+  "name": "spoofing",
+  "version": "1.0.0",
+  "description": "emailsender",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "BLACCMUJJI911",
+  "license": "ISC",
+  "dependencies": {
+    "email-templates": "^11.1.1",
+    "express": "^4.18.2",
+    "nodemailer": "^6.9.7",
+    "nodemon": "^3.0.2",
+    "pug": "^3.0.2"
+  }
+}
